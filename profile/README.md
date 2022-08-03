@@ -59,7 +59,7 @@ we tried a proof-of-concept for mongodb and realized this is not one of its use-
 
 ## repo/org/team stuff
 
-### we are you anyway?
+### who are you anyway?
 
 it's just [mars](https://github.com/bulletsabbath) and [lara](https://github.com/laralove143)
 for now, that may or may not change in the future
