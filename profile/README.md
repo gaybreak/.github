@@ -1,4 +1,4 @@
-# gaybreak
+# Gaybreak
 
 Hi! We're the team behind [daybreak](https://github.com/gaybreak/daybreak)!
 
