@@ -4,7 +4,7 @@ Hi! We're the team behind [Daybreak](https://github.com/gaybreak/daybreak)!
 
 ## So who are you?
 
-It's just [Mars](https://github.com/bulletsabbath) and [Lara](https://github.com/laralove143)
+It's just [Mars](https://github.com/bulletsabbath) (and [Lara](https://github.com/laralove143) helping but not in the org :0)
 for now, that may or may not change in the future
 
 ### I like the idea! How can I help?
